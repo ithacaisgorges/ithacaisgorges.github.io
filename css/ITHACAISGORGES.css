@@ -34,6 +34,15 @@
 	animation-delay: calc(var(--delay-anim) + var(--time-anim) * 0.2);
 }
 
+
+.instaLink {
+	position: absolute;
+	color: white;
+	top: 80vh;
+	font-size: 36px;
+}
+
+
 /* Glitch styles */
 .glitch {
 	position: absolute;
