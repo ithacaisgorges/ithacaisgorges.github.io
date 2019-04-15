@@ -43,6 +43,15 @@
 	right: 35px;
 }
 
+.present {
+	position: absolute;
+	text-align: center;
+	color: white;
+	top: 15vh;
+	font-size: 16px;
+	font-family: 'Roboto Mono', sans-serif;
+}
+
 .shopLink {
 	font-family: 'Roboto Mono', sans-serif;
 	position: absolute;
